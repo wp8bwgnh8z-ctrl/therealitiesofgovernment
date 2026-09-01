@@ -1,0 +1,1 @@
+Miguel Pena wrote a letter to Simón Bolívar on March 24, 1824, about the presence of Simón Rodríguez in Bogotá. In his letter, he incorporates Rodriguez's pedagogical model for building education. Pena intentionally referred to a building called Hospicio because Rodríguez lacked funds for this educational endeavor, in the hope of Bolívar's support.
