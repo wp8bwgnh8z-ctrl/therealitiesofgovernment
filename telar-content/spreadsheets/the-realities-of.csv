@@ -1,7 +1,12 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,sa1842introen-english-first,0.4921559421540142,0.5739971278204385,0.9045000000000001,,,,,,,,,,,
-2,sa1842introen-english-first,0.3945864387627596,0.39257304228176404,2.7135000000000007,,,,,,,,,,,
-3,sa1842introen-english-first,0.5619287055675154,0.4628758555778039,2.985983999999999,,,,,,,,,,,
-4,sa1842introen-english-first,0.5092690148893854,0.6338375830693216,2.00060928,,,,,,,,,,,
-5,sa1842introen-english-first,0.49811202949360056,0.8358384111822099,2.0736,,,,,,,,,,,
+1,sa1842introes-espanol-edicion,0.5215362555340121,0.5468091647502031,0.9,,The Letter,Miguel Pena's letter to Simon Bolivar,,Learn more,the-realities-of-learn-more.md,,,,,
+2,sa1842introes-espanol-edicion,0.4454601906940322,0.37334498159989643,2.7135000000000007,,The Meeting,"Bolivar, who was in Peru, was aware that Rodriguez was ",,,,,,,,
+3,sa1842introes-espanol-edicion,0.5684427194044913,0.45328940283145047,3.574491435027396,,"Cooperation over Conflict ","Americans should stop fighting among themselves and focus on working together to build their new society. ",,,,,,,,
+4,sa1842introes-espanol-edicion,0.511453297927803,0.5790582303035706,2.4127347916799997,,History of Citizenship,"Overtime freedom of one has changed due to government's different foundations.  ",,,,,,,,
+5,sa1842introes-espanol-edicion,0.6655478374528573,0.5614244000524142,7.66987734375,,Whats the opposite of Rodriquez's idea?,"In this bracket it illustrates that stripping away the rights from the citizens is what built this type of government, specifically in North America. ",,,,,,,,
+6,sa1842introes-espanol-edicion,0.6415999953647157,0.6270550985438625,6.624755859375,,"What supports Rodriquez's government key foundation? ","In this bracket the foundation was based on liberty among all citizens backed up with responsibilities to follow. ",,,,,,,,
+7,sa1842introes-espanol-edicion,0.4969732972942623,0.7722283415010763,2.0736,,"Postcolonial Spanish America ","A look into what Simon Rodriguez, considers a TRUE republic and who he believes meets this statement.",,,,,,,,
+8,sa1842introes-espanol-edicion,0.5034632522122339,0.9223365428311739,2.0735999999999994,,Spanish America,,,,,,,,,
+9,sa1842introes-espanol-edicion,0.5,0.5,1,,,,,,,,,,,
+10,sa1842introes-espanol-edicion,0.5188902007083823,0.5276073619631898,1,,,,,,,,,,,
