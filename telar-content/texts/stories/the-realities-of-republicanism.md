@@ -1,0 +1,5 @@
+---
+title: "Republicanism"
+---
+
+Simon Rodriguez and Simon Bolivar worked togther to build a Republic, looking into what factors were needed to build a Republic that protected the people and was FOR the people. Which was the reason that Rodriguez, with the help of Bolivar created a Republic FOR the people of Spanish America after being under the rule of their colonizers. Their society was left broken into pieces, with them not knowing what to do. They started by using their customs and traditions to form a government that best fitted them, which could be said that it was a step by step process. This is the reason behind why he states that "neither Monarchy nor Republic} suit {in all places nor all times}". Rodriguez and Bolivar created the path to Repulicanism in Spanish America, which they refer to as "la America", which is why Simon Rodriguez states that it is the only place that has a government that is TRULY Republican because he layed the path to the Republicanism he envisioned.

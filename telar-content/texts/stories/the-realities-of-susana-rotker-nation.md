@@ -1,0 +1,5 @@
+---
+title: "Susana Rotker, \"Nation and Mockery: The Oppositional Writings of Simón Rodríguez\" Modern Language Quarterly 57.2 (1996)"
+---
+
+The reading by Susana Rotker helps explain this idea by showing that Rodríguez believed political independence was only the beginning of creating a new society. After breaking away from colonial rule, Spanish America still had to determine how people could live and participate together as citizens. This connects to Rodríguez telling Americans to stop fighting one another because a republic cannot be built through constant division and conflict. Instead, people need to cooperate and learn how to participate in their new society. Rotker also connects Rodríguez's political ideas to education and the formation of citizens, showing that creating a republic required changing society and not simply changing its government (Rotker 257-259).

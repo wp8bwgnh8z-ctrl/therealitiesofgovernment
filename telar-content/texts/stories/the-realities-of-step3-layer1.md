@@ -1,5 +1,5 @@
 ---
-title: "Learn more"
+title: "The Life of Simón Rodríguez through the Prism of his Biographers and Memorialist"
 ---
 
-He saw education as a critical tool for developing informed citizens who can engage with their government and contribute to society. In his view, a republican is not just a member of a political system, but someone who actively works to uphold the ideals of liberty, equality, and justice.
+Rodriguez believed education is essential to helping people become knowledgeable citizens who can engage with their government and improve their communities. He saw being a Republican not just as being part of a political group, but as actively supporting and promoting the values of freedom, fairness, and justice for everyone, both then and for future generations.
